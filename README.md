@@ -1,4 +1,7 @@
-# AWS Continuous Integration Demo
+# AWS Continuous Integration / Continuous Deployment Demo
+
+![CI-CD](https://github.com/Parth-Dholariya/CI-CD/assets/92844674/f6d1e3fe-f4b6-4c1c-9d6f-25239fef945b)
+
 
 ## Set Up GitHub Repository
 
